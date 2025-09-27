@@ -22,8 +22,9 @@ A compact selection of my UI/UX work: product design, flows, and high-fidelity v
 - Patterns: above-the-fold value prop, trust badges, comparison table, sticky CTA.
 - Outcome: Clearer message hierarchy and stronger conversion cues.
 
-<img width="1280" height="832" alt="Landing Page" src="https://github.com/user-attachments/assets/20de27b0-a54d-4817-9d42-bb858d2c0dc3" />
-<img width="1280" height="832" alt="landing" src="https://github.com/user-attachments/assets/1a045730-ca14-4a34-a595-7a7afba2e0ce" />
+<img width="1280" height="832" alt="Landing Page" src="https://github.com/user-attachments/assets/4e373564-0fcc-4f41-a92e-3143167f6b24" />
+<img width="1280" height="832" alt="MacBook Air - 8" src="https://github.com/user-attachments/assets/91cf525e-5c41-4664-a017-d2c1001818d6" />
+
 
 ---
 
